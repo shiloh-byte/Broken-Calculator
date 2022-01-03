@@ -1,0 +1,25 @@
+.calculator{
+  width:30vw;
+  height:70vh;
+  margin-left:35vw;
+  margin-right:35vw;
+  margin-top:15vh;
+  margin-bottom:15vh;
+  background-color: grey;
+
+}
+
+.flex-container{
+  display: flex;
+  width:100vw;
+  height:100vh;
+}
+
+.answer-display{
+  background-color:black;
+  width:90%;
+  height:15%;
+  margin-left:5%;
+  margin-right:5%;
+  margin-top:3%
+}
